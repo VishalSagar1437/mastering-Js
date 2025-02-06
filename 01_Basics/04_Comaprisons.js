@@ -9,3 +9,4 @@
 // console.log("2" ===2);// this is a strict way of checking and this also checks if the datatype is also same or not
 
 
+
